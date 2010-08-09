@@ -17,6 +17,7 @@
 		<td valign=top><div class="monitter" id="tweets" title="wikimania"></div></td>
 	</tr>
 </table>
+More <a href="http://toolserver.org/~emijrp/">emijrp</a> tools
 </center>
 </body>
 </html>
