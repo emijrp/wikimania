@@ -28,7 +28,7 @@ w += 32;h += 96;
 <span style="text-align: center;position: absolute; top: 10px; right: 10px;">
 [<a href="http://commons.wikimedia.org/wiki/Commons:Upload" target="_blank"><b>Upload</b></a> your <a href="http://commons.wikimedia.org/wiki/Category:Wikimania_2011" target="_blank">Wikimania photos</a>]<br/>[Batch uploads with <a href="http://commons.wikimedia.org/wiki/Commons:Tools/Commonist" target="_blank">Commonist</a>]
 </span>
-<center><big><big><big><b><a href="http://wikimania2011.wikimedia.org" target="_blank">Wikimania <i>2011</i></a></b></big></big></big><br/><b>Haifa, Israel, August 4–7, 2011</b><br/><br/>
+<center><big><big><big><b><a href="http://wikimania2011.wikimedia.org" target="_blank">Wikimania <i>2011</i></a></b></big></big></big><br/><b>Haifa, Israel, August 4–7, 2011 (See <a href="http://wikimania2011.wikimedia.org/wiki/Schedule" target="_blank">schedule</a>)</b><br/><br/>
 <div style="background-color: pink;padding: 2px;margin-bottom: 2px;margin-top:-10px;"><b>Live Transcripts!</b> <a href="#" target="popup"
  onClick="wopen('http://etherpad.wikimedia.org/FuXiOXfFOj', 'popup1', 900, 600); return false;">Opening/Closing Ceremonies & Plenaries</a> | <a href="#" target="popup"
  onClick="wopen('http://etherpad.wikimedia.org/VJBbB3wh5E', 'popup2', 900, 600); return false;">Arbel</a> | <a href="#" target="popup"
