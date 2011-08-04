@@ -26,16 +26,16 @@ w += 32;h += 96;
 [<a href="http://toolserver.org/~emijrp/" target="_blank">More emijrp tools</a>]
 </span>
 <span style="text-align: center;position: absolute; top: 10px; right: 10px;">
-[<a href="http://commons.wikimedia.org/wiki/Commons:Upload" target="_blank"><b>Upload</b></a> your <a href="http://commons.wikimedia.org/wiki/Category:Wikimania_2011" target="_blank">Wikimania photos</a>]
+[<a href="http://commons.wikimedia.org/wiki/Commons:Upload" target="_blank"><b>Upload</b></a> your <a href="http://commons.wikimedia.org/wiki/Category:Wikimania_2011" target="_blank">Wikimania photos</a>]<br/>[Batch uploads with <a href="http://commons.wikimedia.org/wiki/Commons:Tools/Commonist" target="_blank">Commonist</a>]
 </span>
 <center><big><big><big><b><a href="http://wikimania2011.wikimedia.org" target="_blank">Wikimania <i>2011</i></a></b></big></big></big><br/><b>Haifa, Israel, August 4–7, 2011</b><br/><br/>
-<div style="background-color: pink;padding: 2px;margin-bottom: 2px;"><b>Live Transcripts!</b> <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/FuXiOXfFOj', 'popup', 900, 600); return false;">Opening/Closing Ceremonies & Plenaries</a> | <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/VJBbB3wh5E', 'popup', 900, 600); return false;">Arbel</a> | <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/WncQyASKKu', 'popup', 900, 600); return false;">Cinematheque</a> | <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/KRhiIZaCap', 'popup', 900, 600); return false;">Gilboa</a> | <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/gwVv3fygA8', 'popup', 900, 600); return false;">Rapaport</a> | <a href="#" target="popup"
- onClick="wopen('http://etherpad.wikimedia.org/kGZ8ujeKRs', 'popup', 900, 600); return false;">Tavor</a> <b>(Attendants, please, help!)</b>
+<div style="background-color: pink;padding: 2px;margin-bottom: 2px;margin-top:-10px;"><b>Live Transcripts!</b> <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/FuXiOXfFOj', 'popup1', 900, 600); return false;">Opening/Closing Ceremonies & Plenaries</a> | <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/VJBbB3wh5E', 'popup2', 900, 600); return false;">Arbel</a> | <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/WncQyASKKu', 'popup3', 900, 600); return false;">Cinematheque</a> | <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/KRhiIZaCap', 'popup4', 900, 600); return false;">Gilboa</a> | <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/gwVv3fygA8', 'popup5', 900, 600); return false;">Rapaport</a> | <a href="#" target="popup"
+ onClick="wopen('http://etherpad.wikimedia.org/kGZ8ujeKRs', 'popup6', 900, 600); return false;">Tavor</a> <b>(Attendants, please, help!)</b>
 </div>
 </center>
 
@@ -46,7 +46,7 @@ w += 32;h += 96;
         <div class="monitter" id="tweets" title="wikimania"></div>
         <center>Add "Wikimania" to your tweet, it will be showed here<br/>More: <a href="http://www.flickr.com/search/?q=wikimania&s=rec" target="_blank">Flickr</a>, <a href="http://www.google.com/search?aq=f&hl=en&gl=us&tbm=nws&btnmeta_news_search=1&q=wikimania" target="_blank">Google News</a>, <a href="http://identi.ca/search/notice?q=wikimania">Identi.ca</a>, <a href="http://twitpic.com/search#q=wikimania&type=recent&page=1" target="_blank">TwitPic</a></center>
         </td>
-		<td valign=top><iframe src="http://webchat.freenode.net?channels=wikimania" width="575" height="320"></iframe></td>
+		<td valign=top><iframe src="http://webchat.freenode.net?channels=wikimania" width="575" height="250"></iframe></td>
 	</tr>
 	<tr>
 		<td valign=top>
