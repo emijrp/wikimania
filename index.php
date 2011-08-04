@@ -44,7 +44,7 @@ w += 32;h += 96;
 	<tr>
 		<td rowspan=2 valign=top>
         <div class="monitter" id="tweets" title="wikimania"></div>
-        <center><b>Add "Wikimania" to your tweet</b>, it will be showed here<br/>More: <a href="http://www.flickr.com/search/?q=wikimania&s=rec" target="_blank">Flickr</a>, <a href="http://www.google.com/search?aq=f&hl=en&gl=us&tbm=nws&btnmeta_news_search=1&q=wikimania" target="_blank">Google News</a>, <a href="http://identi.ca/search/notice?q=wikimania">Identi.ca</a>, <a href="http://twitpic.com/search#q=wikimania&type=recent&page=1" target="_blank">TwitPic</a></center>
+        <center>Add "Wikimania" to your tweet, it will be showed here<br/>More: <a href="http://www.flickr.com/search/?q=wikimania&s=rec" target="_blank">Flickr</a>, <a href="http://www.google.com/search?aq=f&hl=en&gl=us&tbm=nws&btnmeta_news_search=1&q=wikimania" target="_blank">Google News</a>, <a href="http://identi.ca/search/notice?q=wikimania">Identi.ca</a>, <a href="http://twitpic.com/search#q=wikimania&type=recent&page=1" target="_blank">TwitPic</a></center>
         </td>
 		<td valign=top><iframe src="http://webchat.freenode.net?channels=wikimania" width="575" height="250"></iframe></td>
 	</tr>
