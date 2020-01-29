@@ -1,4 +1,3 @@
-wikimania
-=========
+# wikimania
 
-Mashup for Wikimania events
+Mashup for Wikimania events.
